@@ -2,12 +2,16 @@
   <library name="meteor-packages-auto-import-browser" type="javaScript">
     <properties>
       <sourceFilesUrls>
+        <item url="file://$USER_HOME$/.meteor/packages/react-meteor-data/0.2.15/web.browser/ReactMeteorData.jsx" />
         <item url="file://$USER_HOME$/.meteor/packages/templating-runtime/1.3.2/web.browser/templating.js" />
         <item url="file://$USER_HOME$/.meteor/packages/url/1.1.0/web.browser/url_common.js" />
         <item url="file://$USER_HOME$/.meteor/packages/templating-tools/1.1.2/web.browser/throw-compile-error.js" />
+        <item url="file://$USER_HOME$/.meteor/packages/react-meteor-data/0.2.15/web.browser/createContainer.jsx" />
         <item url="file://$USER_HOME$/.meteor/packages/url/1.1.0/web.browser/url_client.js" />
+        <item url="file://$USER_HOME$/.meteor/packages/react-meteor-data/0.2.15/web.browser/react-meteor-data.jsx" />
         <item url="file://$USER_HOME$/.meteor/packages/caching-compiler/1.1.9/web.browser/multi-file-caching-compiler.js" />
         <item url="file://$USER_HOME$/.meteor/packages/templating-tools/1.1.2/web.browser/code-generation.js" />
+        <item url="file://$USER_HOME$/.meteor/packages/tmeasday_check-npm-versions/0.2.0/web.browser/check-npm-versions.js" />
         <item url="file://$USER_HOME$/.meteor/packages/caching-compiler/1.1.9/web.browser/caching-compiler.js" />
         <item url="file://$USER_HOME$/.meteor/packages/allow-deny/1.1.0/web.browser/allow-deny.js" />
         <item url="file://$USER_HOME$/.meteor/packages/allow-deny/1.1.0/web.browser/allow-deny-tests.js" />
@@ -155,12 +159,16 @@
       </sourceFilesUrls>
     </properties>
     <CLASSES>
+      <root url="file://$USER_HOME$/.meteor/packages/react-meteor-data/0.2.15/web.browser/ReactMeteorData.jsx" />
       <root url="file://$USER_HOME$/.meteor/packages/templating-runtime/1.3.2/web.browser/templating.js" />
       <root url="file://$USER_HOME$/.meteor/packages/url/1.1.0/web.browser/url_common.js" />
       <root url="file://$USER_HOME$/.meteor/packages/templating-tools/1.1.2/web.browser/throw-compile-error.js" />
+      <root url="file://$USER_HOME$/.meteor/packages/react-meteor-data/0.2.15/web.browser/createContainer.jsx" />
       <root url="file://$USER_HOME$/.meteor/packages/url/1.1.0/web.browser/url_client.js" />
+      <root url="file://$USER_HOME$/.meteor/packages/react-meteor-data/0.2.15/web.browser/react-meteor-data.jsx" />
       <root url="file://$USER_HOME$/.meteor/packages/caching-compiler/1.1.9/web.browser/multi-file-caching-compiler.js" />
       <root url="file://$USER_HOME$/.meteor/packages/templating-tools/1.1.2/web.browser/code-generation.js" />
+      <root url="file://$USER_HOME$/.meteor/packages/tmeasday_check-npm-versions/0.2.0/web.browser/check-npm-versions.js" />
       <root url="file://$USER_HOME$/.meteor/packages/caching-compiler/1.1.9/web.browser/caching-compiler.js" />
       <root url="file://$USER_HOME$/.meteor/packages/allow-deny/1.1.0/web.browser/allow-deny.js" />
       <root url="file://$USER_HOME$/.meteor/packages/allow-deny/1.1.0/web.browser/allow-deny-tests.js" />

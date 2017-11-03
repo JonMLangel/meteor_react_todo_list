@@ -6348,6 +6348,7 @@
         <item url="file://$USER_HOME$/.meteor/packages/webapp/1.4.0/npm/node_modules/readable-stream/lib/_stream_duplex.js" />
         <item url="file://$USER_HOME$/.meteor/packages/webapp/1.4.0/npm/node_modules/cookie-signature/index.js" />
         <item url="file://$USER_HOME$/.meteor/packages/webapp/1.4.0/npm/node_modules/basic-auth-connect/index.js" />
+        <item url="file://$USER_HOME$/.meteor/packages/tmeasday_check-npm-versions/0.2.0/npm/node_modules/semver/semver.js" />
       </sourceFilesUrls>
     </properties>
     <CLASSES>
@@ -12697,6 +12698,7 @@
       <root url="file://$USER_HOME$/.meteor/packages/webapp/1.4.0/npm/node_modules/readable-stream/lib/_stream_duplex.js" />
       <root url="file://$USER_HOME$/.meteor/packages/webapp/1.4.0/npm/node_modules/cookie-signature/index.js" />
       <root url="file://$USER_HOME$/.meteor/packages/webapp/1.4.0/npm/node_modules/basic-auth-connect/index.js" />
+      <root url="file://$USER_HOME$/.meteor/packages/tmeasday_check-npm-versions/0.2.0/npm/node_modules/semver/semver.js" />
     </CLASSES>
     <SOURCES />
   </library>
